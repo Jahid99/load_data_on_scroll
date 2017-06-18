@@ -1,0 +1,12 @@
+.blog-post{
+		border-bottom:solid 4px black;
+		margin-bottom: 20px;
+	}
+
+	.blog-post h1{
+		font-size: 40px;
+	}
+
+	.blog-post p{
+		font-size: 30px;
+	}
